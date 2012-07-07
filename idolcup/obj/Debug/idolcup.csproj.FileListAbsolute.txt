@@ -1,0 +1,13 @@
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\Bin\Debug\ApplicationIcon.png
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\Bin\Debug\Background.png
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\Bin\Debug\idolcup.dll
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\Bin\Debug\idolcup.pdb
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\Bin\Debug\AppManifest.xaml
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\Bin\Debug\idolcup.xap
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\obj\Debug\App.g.i.cs
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\obj\Debug\MainPage.g.i.cs
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\obj\Debug\idolcup.g.resources
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\obj\Debug\idolcup.dll
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\obj\Debug\idolcup.pdb
+c:\users\hoyajigi\documents\visual studio 2010\Projects\idolcup\idolcup\obj\Debug\XapCacheFile.xml
